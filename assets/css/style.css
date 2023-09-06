@@ -1,0 +1,66 @@
+.form-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+}
+
+.titre {
+  border: 1px solid #5a5a5a;
+  height: 35px;
+  padding: 5px 10px;
+  font-size:18px;
+  font-family: "Montserrat", Arial, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+.stratis_texte {
+	border: 1px solid #5a5a5a;
+	padding: 5px 10px;
+	font-size: 18px;
+	height: 400px;
+	font-family: "Montserrat", Arial, Tahoma, sans-serif;
+	cursor: pointer;
+}
+.form-input label {
+  font-weight: 700;
+  margin: 0 0 10px;
+  font-family: "Montserrat", Arial, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+.btn-startis {
+  font-size: 1.2rem;
+  min-height: 45px;
+  padding: 1.1em 2.4em;
+  border: 1px solid #ca000a;
+  background: #fff;
+  color: #ca000a;
+  cursor: pointer;
+  font-family: "Montserrat", Arial, Tahoma, sans-serif;
+}
+
+.btn-startis:hover{
+	background: #ca000a;
+	color: #fff;
+}
+.error {
+  border: 1px solid red;
+  text-align: center;
+  background-color: #ffdede;
+  color: red;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: "Montserrat", Arial, Tahoma, sans-serif;
+}
+
+.success{
+	border: 1px solid green;
+	text-align: center;
+	background-color: #b3fabd;
+	color: green;
+	padding: 10px;
+	font-weight: 700;
+	font-size: 15px;
+	font-family: "Montserrat", Arial, Tahoma, sans-serif;
+}
