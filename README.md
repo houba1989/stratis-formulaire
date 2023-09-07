@@ -2,7 +2,9 @@
 
 # Description
 
-    Le plugin Stratis Formulaire est une extension WordPress qui permet aux utilisateurs de créer facilement des articles en utilisant un formulaire de soumission. L'objectif principal de ce plugin est de simplifier le processus de création de contenu sur votre site WordPress en offrant une interface conviviale pour soumettre des titres et du texte.
+    Le plugin Stratis Formulaire est une extension WordPress qui permet aux utilisateurs de créer facilement des articles en utilisant un formulaire de soumission
+    L'objectif principal de ce plugin est de simplifier le processus de création de contenu sur votre site WordPress en offrant une interface conviviale pour soumettre
+    des titres et du texte.
 # Fonctionnalités
 
     Formulaire de soumission pour créer des articles.
