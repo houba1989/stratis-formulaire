@@ -63,11 +63,11 @@ function formulaire_stratis()
     ?>
     <form method="post">
         <div class="form-input">
-            <label for="stratis_titre">Titre :</label>
+            <label for="stratis_titre">Titre</label>
             <input type="text" class="titre" id="stratis_titre" name="stratis_titre" required><br>
         </div>
         <div class="form-input">
-            <label for="stratis_texte">Texte :</label>
+            <label for="stratis_texte">Texte</label>
             <textarea class="stratis_texte" id="stratis_texte" name="stratis_texte" required></textarea><br>
         </div>
         <input class="btn-startis" type="submit" name="stratis_submit" value="Envoyer">
