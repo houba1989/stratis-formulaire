@@ -5,7 +5,7 @@
  * Description: Plugin Stratis Formulaire.
  * Version: 1.0.0
  * Author: Iheb Grayâa
- * Author URI: https://www.facebook.com/iheb.grayaa.01/
+ * Author URI: https://www.linkedin.com/in/grayaa-iheb/
  **/
 
 // Define a constant for the plugin file path
