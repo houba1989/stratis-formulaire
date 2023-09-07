@@ -4,7 +4,7 @@
   margin-bottom: 25px;
 }
 
-.titre {
+.stratis_titre {
   border: 1px solid #5a5a5a;
   height: 35px;
   padding: 5px 10px;
@@ -29,7 +29,7 @@
   cursor: pointer;
 }
 
-.btn-startis {
+.btn-stratis {
   font-size: 1.2rem;
   min-height: 45px;
   padding: 1.1em 2.4em;
@@ -40,7 +40,7 @@
   font-family: "Montserrat", Arial, Tahoma, sans-serif;
 }
 
-.btn-startis:hover{
+.btn-stratis:hover{
 	background: #ca000a;
 	color: #fff;
 }
